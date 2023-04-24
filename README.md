@@ -7,3 +7,6 @@ DeepFakes, Face2Face and other mainstream algorithms were used to generate fake 
 
 ## code source: the first in the competition
 view https://www.kaggle.com/competitions/deepfake-detection-challenge/discussion/145721 for more infomation.
+
+## weights file
+The parameters file is about 1.7GB and has not been uploaded to the github repository. Please download the file from the original URL of the code.
